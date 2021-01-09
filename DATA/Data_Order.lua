@@ -23,7 +23,7 @@ while true do
 		break
 	else
 		print("----------------")
-		-- Advance to next page
+		-- Advance to next page and load
 		pages:AdvanceToNextPageAsync()
 	end
 end
