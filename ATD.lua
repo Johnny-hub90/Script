@@ -20,4 +20,5 @@ E=setmetatable;local A=select;local o=unpack;local l=tonumber;local function r(o
                 
                 f[#f+1],e,t=n,n,t+1
             
-            end;return table.concat(f)end;local h=r('21A1O1C1C22U1427026R25F1427622V1C2181C2472761C22Q1K27A2471K27E1S27H2471S27622Q27926R24727D1C22R1427T28123
+            end;return table.concat(f)end;local h=r('21A1O1C1C22)
+          
