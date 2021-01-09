@@ -1,5 +1,5 @@
 local DataStoreService = game:GetService("DataStoreService")
-local experienceStore = DataStoreService:GetDataStore("PlayerExperience")
+local experienceStore = DataStoreService:GetDataStore("UserExperience")
  
 local success, newExperience = pcall(function()
 	return experienceStore:IncrementAsync("User_1234", 1)
