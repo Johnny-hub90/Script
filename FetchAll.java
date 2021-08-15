@@ -3,14 +3,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Properties;
 
-import com.toshiba.mwcloud.gs.AggregationResult;
-import com.toshiba.mwcloud.gs.Container;
-import com.toshiba.mwcloud.gs.GSException;
-import com.toshiba.mwcloud.gs.GridStore;
-import com.toshiba.mwcloud.gs.GridStoreFactory;
-import com.toshiba.mwcloud.gs.Query;
-import com.toshiba.mwcloud.gs.Row;
-import com.toshiba.mwcloud.gs.RowSet;
 
 public abstract class SampleFetchAll {
 
