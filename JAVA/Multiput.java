@@ -9,17 +9,6 @@ import java.util.Map;
 import java.util.Properties;
 import java.util.Random;
 
-import com.toshiba.mwcloud.gs.Container;
-import com.toshiba.mwcloud.gs.ContainerInfo;
-import com.toshiba.mwcloud.gs.GSException;
-import com.toshiba.mwcloud.gs.GridStore;
-import com.toshiba.mwcloud.gs.GridStoreFactory;
-import com.toshiba.mwcloud.gs.IndexType;
-import com.toshiba.mwcloud.gs.Row;
-import com.toshiba.mwcloud.gs.RowKey;
-import com.toshiba.mwcloud.gs.TimeSeries;
-import com.toshiba.mwcloud.gs.TimeUnit;
-import com.toshiba.mwcloud.gs.TimestampUtils;
 
 public class SampleMultiPut {
 
