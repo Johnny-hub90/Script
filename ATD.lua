@@ -1,5 +1,4 @@
-local m=string.byte;local L=string.char;local d=string.sub;local B=table.concat;local F=getfenv or function(()return _ENV end;local 
-E=setmetatable;local A=select;local o=unpack;local l=tonumber;local function r(o)local
+
      e,n,f="","",{}local
       t=256;local h={}for i=
       
